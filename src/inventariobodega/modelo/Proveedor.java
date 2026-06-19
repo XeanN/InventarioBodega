@@ -32,7 +32,7 @@ public class Proveedor {
         this.nombre = nombre;
     }
 
-    public String contacto(){
+    public String getContacto(){
         return contacto;
     }
     public void setContacto(String contacto){

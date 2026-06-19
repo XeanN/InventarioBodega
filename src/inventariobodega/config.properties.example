@@ -1,0 +1,9 @@
+# Copia este archivo como config.properties y pon los datos de Supabase/PostgreSQL
+# Tu compañero (backend) debe llenar estos valores con la base de datos real.
+
+db.url=jdbc:postgresql://HOST:5432/NOMBRE_BD
+db.usuario=USUARIO
+db.password=CONTRASEÑA
+
+# Puerto del API REST para el frontend web
+api.puerto=8080
