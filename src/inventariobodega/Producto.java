@@ -20,17 +20,6 @@ public class Producto {
         this.precioVenta = precioVenta;
         this.stock = stock;
     }
-
- 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+        
 }
 
